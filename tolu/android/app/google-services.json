@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947297770659",
+    "project_id": "eduplay-af289",
+    "storage_bucket": "eduplay-af289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947297770659:android:4bd390e261fddcdd84f316",
+        "android_client_info": {
+          "package_name": "com.example.tolu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXAH_FQwDlEGB8yfUHb8zwolQvX3QU54Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
